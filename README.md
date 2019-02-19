@@ -24,7 +24,7 @@
  -->Download vagrant from (https://www.vagrantup.com/downloads.html).
  -->Do (`vagrant up`) after opening Git Bash.
  -->Do (`vagrant ssh`) after doing vagrant up.
- -->Import newsdata.sql into news database provided in zip file by using command (`psql -d news -f  newsdata.sql`)                        
+ -->Download database from [here](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip).                        
  -->Extract the zip file under vagrant folder by name log_analysis
 
 ##Running the project:
